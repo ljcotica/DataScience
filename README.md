@@ -1,5 +1,4 @@
-# DataScience
-<p align="center">
+<p align="left">
   <img src="banner ljc - ds.jpg" >
 </p>
 
