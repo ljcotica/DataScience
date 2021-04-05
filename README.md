@@ -4,7 +4,7 @@
 </p>
 
 # Leandro José Cotica
-<sub>*Lead Data Scientist* at Space Operations Center</sub>
+<sub>*Data Analyst and BI Specialist* at Sicoob Central Unicoob</sub>
 
 Working in the development area for almost 20 years, in the financial and cooperative sector (credit and rural). I have consolidated experience in developing BI solutions, Qlikview, Qlik Sense, SSIS, SQL Server, MySQL, Power BI, Pentaho PDI, Talend, Cognos Analytics, ETL, DataWarehouse and Data Visualization. He also has knowledge in Python, R, Progress, Cobol and Oracle.
 
