@@ -1,6 +1,6 @@
 # DataScience
 <p align="center">
-  <img src="banner ljc - ds.png" >
+  <img src="banner ljc - ds.jpg" >
 </p>
 
 # Leandro José Cotica
