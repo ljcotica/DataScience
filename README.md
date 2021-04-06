@@ -22,3 +22,6 @@ Postgraduate degree in Business Intelligence Technologies at Estácio de Sá Uni
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/leandro-cotica)
+
+**Projetos:**
+* [Classificador utilizando árvore de decisão](https://bit.ly/3sS5iQw)
