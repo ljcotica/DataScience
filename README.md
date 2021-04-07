@@ -5,7 +5,7 @@
 # Leandro José Cotica
 <sub>*Data Analyst and BI Specialist* at Sicoob Central Unicoob</sub>
 
-Working with development for almost 20 years, in the financial and cooperative sector. I have consolidated experience in developing BI solutions, Qlikview, Qlik Sense, SSIS, SQL Server, MySQL, Power BI, Pentaho PDI, Talend, Cognos Analytics, ETL, DataWarehouse and Data Visualization. He also has knowledge in Python, R, Progress, Cobol and Oracle.
+Working with development for almost 20 years, in the financial and cooperative sector. I have consolidated experience in developing BI solutions, Qlikview, Qlik Sense, SSIS, SQL Server, MySQL, Power BI, Pentaho PDI, Talend, Cognos Analytics, ETL, DataWarehouse and Data Visualization. I also have knowledge in Python, R, Progress, Cobol and Oracle.
 
 BI Specialist / Data Analyst since 2015, leading BI team. I worked for 9 years at Banco do Brasil, having worked at the Technology Department in Rio de Janeiro and Brasília.
 
