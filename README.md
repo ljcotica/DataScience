@@ -11,7 +11,7 @@ BI Specialist / Data Analyst since 2015, leading BI team. I worked for 9 years a
 
 I teach the discipline of Data Visualization in the Postgraduate Course in Data Science at Cidade Verde College.
 
-Internship at Inria Loria (Institut National de Recherche en Sciences et Technologies du Numérique) in Nancy - France.
+I did an internship at Inria Loria (Institut National de Recherche en Sciences et Technologies du Numérique) in Nancy - France.
 
 Graduated in Computer Science at the State University of Maringá.
 
@@ -24,6 +24,6 @@ Postgraduate degree in Business Intelligence Technologies at Estácio de Sá Uni
 * [LinkedIn](https://www.linkedin.com/in/leandro-cotica)
 
 **Projects:**
-* [Simple decision tree classifier](https://bit.ly/3sS5iQw)
-* [Importing datasets with Pandas](https://bit.ly/3dMJ0ci)
+* [Simple Decision Tree Classifier](https://bit.ly/3sS5iQw)
+* [Importing Datasets With Pandas](https://bit.ly/3dMJ0ci)
 * [Exploratory Data Analysis](https://bit.ly/3uYwmhs)
