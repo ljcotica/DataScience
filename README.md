@@ -27,4 +27,5 @@ Postgraduate degree in Business Intelligence Technologies at Estácio de Sá Uni
 **Projects:**
 * [Simple Decision Tree Classifier](https://bit.ly/3sS5iQw)
 * [Importing Datasets With Pandas](https://bit.ly/3dMJ0ci)
-* [Exploratory Data Analysis](https://bit.ly/3uYwmhs)
+* [Exploratory Data Analysis](https://bit.ly/3m8e77T)
+* [dbt](https://bit.ly/30TpjNq)
